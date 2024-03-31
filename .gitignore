@@ -1,0 +1,6 @@
+*/env*
+.mypy_cache
+data/
+.env
+outputs/
+env_journal_entries_mixtral/
